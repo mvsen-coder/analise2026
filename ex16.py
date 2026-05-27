@@ -10,3 +10,4 @@ elif val <0:
 else:
     print(f"{val} é maior que 30")
 print("exercicio concluido")
+print("teste")
