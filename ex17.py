@@ -5,3 +5,4 @@ elif temp <18:
     print(f"{temp}° é considerado frio")
 else:
     print(f"{temp}° é considerado calor")
+    print("alterado por outra pessoa")
